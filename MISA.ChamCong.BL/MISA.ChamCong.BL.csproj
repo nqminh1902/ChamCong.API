@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MISA.ChamCong.Common\MISA.ChamCong.Common.csproj" />
+    <ProjectReference Include="..\MISA.ChamCong.DL\MISA.ChamCong.DL.csproj" />
+  </ItemGroup>
+
+</Project>
